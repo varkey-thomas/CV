@@ -1,0 +1,113 @@
+body
+{
+	background-color: #00AFC1;
+	text-align: center;
+	margin: 0;
+	font-family: 'Merriweather Sans', sans-serif;
+	color: #383838;
+}
+
+h1
+{
+	margin: 0 auto 0 auto;
+	width: 10%;
+	font-family: 'Montserrat', cursive;
+	color: #EDE6DB;
+	padding-top: 40px;
+}
+h2
+{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.5rem;
+	color:#EDE6DB;
+}
+
+h3
+{
+	    font-family: 'Montserrat', sans-serif;
+}
+
+.home
+{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.cloud
+{
+	position: absolute;
+
+}
+
+.profile
+{
+	background-color: #0093AB;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.boy
+{
+	padding: 50px 50px;
+	width: 300px;
+	height: 300px;
+}
+
+.skills
+{
+	padding-top: 50px;
+}
+
+.skill-row
+{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	line-height: 2;
+	text-align: left;
+}
+
+.hobbies-row
+{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	line-height: 2;
+	text-align: left;
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+.web
+{
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+	padding-bottom: 30px;
+}
+.violin
+{
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+	
+}
+.top-cloud
+{
+	position: absolute;
+	padding-bottom: 50px;
+	margin-left: 150px;
+}
+
+.projects
+{
+	background-color: #0093AB;
+}
+
+.projects
+{
+	margin: 50px auto;
+	padding: 50px 50px;
+}
+
+a
+{
+	color: black;
+	font-size: 30px;
+}
