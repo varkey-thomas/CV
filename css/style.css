@@ -25,6 +25,7 @@ h2
 h3
 {
 	    font-family: 'Montserrat', sans-serif;
+			text-align: center
 }
 
 .home
@@ -57,10 +58,17 @@ h3
 	padding-top: 50px;
 }
 
+.web
+{
+	width: 25%;
+	float: left;
+	margin-left: 300px;
+	padding-bottom: 30px;
+}
 .skill-row
 {
 	width: 50%;
-	margin: 100px auto 100px auto;
+	margin: auto 200px auto auto;
 	line-height: 2;
 	text-align: left;
 }
@@ -68,26 +76,26 @@ h3
 .hobbies-row
 {
 	width: 50%;
-	margin: 100px auto 100px auto;
+	margin: 100px 100px auto 100px;
 	line-height: 2;
 	text-align: left;
-	padding-top: 100px;
 	padding-bottom: 50px;
 }
-.web
-{
-	width: 25%;
-	float: left;
-	margin-right: 30px;
-	padding-bottom: 30px;
-}
-.violin
+.hobby
 {
 	width: 25%;
 	float: right;
-	margin-left: 30px;
+	margin-right: 50px;
+	padding-left: 100px
 	
 }
+.violin
+{
+	width: 70%;
+	float: right;
+	margin-right: 100px;
+}
+
 .top-cloud
 {
 	position: absolute;
